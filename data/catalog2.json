@@ -1,0 +1,26 @@
+{
+    "0": {  "name":"IFB 20 L Convection Microwave Oven (20SC2, Metallic Silver) ",
+            "brand":"IFB",
+            "price": "8299"
+        },
+    "1":{ "name":"Le Gear Pro Plus Face Mask",
+          "brand":"Le Gear",
+          "price": "180"
+        },
+    "2":{ "name":"Disano Extra virgin Olive Oil  - 250 ml ",
+          "brand":"Disano",
+          "price": "200"
+        },
+    "3":{ "name":"Vega Crux Flip-up Helmet ",
+          "brand":"Vega",
+          "price": "1099"
+        },
+    "4":{ "name":"Nescafe Classic Jar, 50g ",
+          "brand":"Nescafe",
+          "price": "117"
+        },
+    "5":{ "name":"IFB 20 L Convection Microwave Oven (20SC2, Metallic Silver) ",
+          "brand":"IFB",
+          "price": "8299"
+        },
+};

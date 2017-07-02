@@ -1,0 +1,12 @@
+body{
+  background-color: #f1f1f1;
+}
+.navbar{
+  background-color: White;
+}
+.navbar #navbarNav .active>a{
+  color:Coral;
+}
+.badge-default{
+  background-color: Coral;
+}
